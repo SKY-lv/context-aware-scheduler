@@ -1,0 +1,10 @@
+{
+  "name": "context-aware-scheduler",
+  "version": "1.0.0",
+  "description": "Context-aware task scheduler. Run tasks when conditions are met: file changes, API ready, time window.",
+  "main": "scheduler.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
